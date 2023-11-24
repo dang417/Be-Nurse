@@ -4,7 +4,7 @@
 
 간호사들의 <b>업무 편의성을</b>올려주는 서비스<br/>
 
-<img title="" src="file:///C:/Users/SSAFY/Documents/DESKTOP/Mirroring/S09P31E105/Readme_assets/BeNurseIcon.png" alt="BeNurseIcon.png" width="132">
+<img title="" src="Readme_assets/BeNurseIcon.png" alt="BeNurseIcon.png" width="132">
 
 
 
@@ -29,63 +29,63 @@
 
 💉 <b>Login & Invite_Code</b>
 
-| <img title="" src="file:///C:/Users/SSAFY/Documents/DESKTOP/Mirroring/S09P31E105/Readme_assets/login.gif" alt="" width="300"> | <img title="" src="file:///C:/Users/SSAFY/Documents/DESKTOP/Mirroring/S09P31E105/Readme_assets/invite.gif" alt="" width="300"> |
+| <img title="" src="Readme_assets/login.gif" alt="" width="300"> | <img title="" src="Readme_assets/invite.gif" alt="" width="300"> |
 |:-----------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------:|
 | **Login Page**                                                                                                                | **Invite Code**                                                                                                                |
 
 <br>
 💉 <b>Main</b>
 
-| <img title="" src="file:///C:/Users/SSAFY/Documents/DESKTOP/Mirroring/S09P31E105/Readme_assets/mainpage.gif" alt="" width="300"> | <img title="" src="file:///C:/Users/SSAFY/Documents/DESKTOP/Mirroring/S09P31E105/Readme_assets/notice.gif" alt="" width="300"> |
+| <img title="" src="Readme_assets/mainpage.gif" alt="" width="300"> | <img title="" src="Readme_assets/notice.gif" alt="" width="300"> |
 |:--------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------:|
 | **Main Page**                                                                                                                    | **Notice**                                                                                                                     |
-| <img title="" src="file:///C:/Users/SSAFY/Documents/DESKTOP/Mirroring/S09P31E105/Readme_assets/mypage.gif" alt="" width="300">   | <img title="" src="file:///C:/Users/SSAFY/Documents/DESKTOP/Mirroring/S09P31E105/Readme_assets/tip.gif" alt="" width="300">    |
+| <img title="" src="Readme_assets/mypage.gif" alt="" width="300">   | <img title="" src="Readme_assets/tip.gif" alt="" width="300">    |
 | **My Page**                                                                                                                      | **Tip**                                                                                                                        |
 
 <br>
 💉 <b>Handover</b>
 
-| <img title="" src="file:///C:/Users/SSAFY/Documents/DESKTOP/Mirroring/S09P31E105/Readme_assets/App_HandoverMain.gif" alt="" width="300"> | <img title="" src="file:///C:/Users/SSAFY/Documents/DESKTOP/Mirroring/S09P31E105/Readme_assets/App_HandoverCreate.gif" alt="" width="300"> |
+| <img title="" src="Readme_assets/App_HandoverMain.gif" alt="" width="300"> | <img title="" src="Readme_assets/App_HandoverCreate.gif" alt="" width="300"> |
 |:----------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------:|
 | **Handover Main Page**                                                                                                                   | **Create Handover**                                                                                                                        |
 
 <br>
 
-| <img title="" src="file:///C:/Users/SSAFY/Documents/DESKTOP/Mirroring/S09P31E105/Readme_assets/App_CreatePaHo.gif" alt="" width="300"> | <img title="" src="file:///C:/Users/SSAFY/Documents/DESKTOP/Mirroring/S09P31E105/Readme_assets/App_WriteHo.gif" alt="" width="300"> |
+| <img title="" src="Readme_assets/App_CreatePaHo.gif" alt="" width="300"> | <img title="" src="Readme_assets/App_WriteHo.gif" alt="" width="300"> |
 |:--------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------:|
 | **Create Patient Handover**                                                                                                            | **Add Handover**                                                                                                                    |
 
 <br>
 
-| <img title="" src="file:///C:/Users/SSAFY/Documents/DESKTOP/Mirroring/S09P31E105/Readme_assets/App_TakeSelect.gif" alt="" width="300"> | <img title="" src="file:///C:/Users/SSAFY/Documents/DESKTOP/Mirroring/S09P31E105/Readme_assets/App_TakeGive.gif" alt="" width="300"> |
+| <img title="" src="Readme_assets/App_TakeSelect.gif" alt="" width="300"> | <img title="" src="Readme_assets/App_TakeGive.gif" alt="" width="300"> |
 |:--------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------:|
 | **Select Taker**                                                                                                                       | **Temp & Recive Handover**                                                                                                           |
 
 <br>
 💉 <b>Schedule</b>
 
-| <img title="" src="file:///C:/Users/SSAFY/Documents/DESKTOP/Mirroring/S09P31E105/Readme_assets/App_WeeklySchedule.gif" alt="" width="300"> | <img title="" src="file:///C:/Users/SSAFY/Documents/DESKTOP/Mirroring/S09P31E105/Readme_assets/App_MonthlySchedule.gif" alt="" width="300"> |
+| <img title="" src="Readme_assets/App_WeeklySchedule.gif" alt="" width="300"> | <img title="" src="Readme_assets/App_MonthlySchedule.gif" alt="" width="300"> |
 |:------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------:|
 | **Weekly Schedule**                                                                                                                        | **Monthly Schedule**                                                                                                                        |
-| <img title="" src="file:///C:/Users/SSAFY/Documents/DESKTOP/Mirroring/S09P31E105/Readme_assets/App_OffApply.gif" alt="" width="300">       | <img title="" src="file:///C:/Users/SSAFY/Documents/DESKTOP/Mirroring/S09P31E105/Readme_assets/App_DayDetail.gif" alt="" width="300">       |
+| <img title="" src="Readme_assets/App_OffApply.gif" alt="" width="300">       | <img title="" src="Readme_assets/App_DayDetail.gif" alt="" width="300">       |
 | **Day Off Apply**                                                                                                                          | **Day Detail**                                                                                                                              |
 
 <br>
 💉 <b>Patient Management</b>
 
-| <img title="" src="file:///C:/Users/SSAFY/Documents/DESKTOP/Mirroring/S09P31E105/Readme_assets/App_PatientList.gif" alt="" width="300">    | <img title="" src="file:///C:/Users/SSAFY/Documents/DESKTOP/Mirroring/S09P31E105/Readme_assets/App_PatientDetail.gif" alt="" width="300"> |
+| <img title="" src="Readme_assets/App_PatientList.gif" alt="" width="300">    | <img title="" src="Readme_assets/App_PatientDetail.gif" alt="" width="300"> |
 |:------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------:|
 | **Patient List**                                                                                                                           | **Patient Detail**                                                                                                                        |
-| <img title="" src="file:///C:/Users/SSAFY/Documents/DESKTOP/Mirroring/S09P31E105/Readme_assets/App_PatientJournal.gif" alt="" width="300"> |                                                                                                                                           |
+| <img title="" src="Readme_assets/App_PatientJournal.gif" alt="" width="300"> |                                                                                                                                           |
 | **Patient Journal**                                                                                                                        |                                                                                                                                           |
 
 <br>
 💉 <b>Device Management</b>
 
-| <img title="" src="file:///C:/Users/SSAFY/Documents/DESKTOP/Mirroring/S09P31E105/Readme_assets/App_DeviceMain.gif" alt="" width="300">     | <img title="" src="file:///C:/Users/SSAFY/Documents/DESKTOP/Mirroring/S09P31E105/Readme_assets/App_DeviceList.gif" alt="" width="300"> |
+| <img title="" src="Readme_assets/App_DeviceMain.gif" alt="" width="300">     | <img title="" src="Readme_assets/App_DeviceList.gif" alt="" width="300"> |
 |:------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------:|
 | **Device Main**                                                                                                                            | **Device List**                                                                                                                        |
-| <img title="" src="file:///C:/Users/SSAFY/Documents/DESKTOP/Mirroring/S09P31E105/Readme_assets/App_DeviceLocation.gif" alt="" width="300"> | <img title="" src="file:///C:/Users/SSAFY/Documents/DESKTOP/Mirroring/S09P31E105/Readme_assets/App_DeviceUse.gif" alt="" width="300">  |
+| <img title="" src="Readme_assets/App_DeviceLocation.gif" alt="" width="300"> | <img title="" src="Readme_assets/App_DeviceUse.gif" alt="" width="300">  |
 | **Device Location**                                                                                                                        | **Device Use List**                                                                                                                    |
 
 <br>
@@ -93,20 +93,20 @@
  💶 Web
 💊 <b>Login & Select Role</b>
 
-| <img title="" src="Readme_assets/Web_Login.gif" alt="" width="386"> | <img title="" src="file:///C:/Users/SSAFY/Documents/DESKTOP/Mirroring/S09P31E105/Readme_assets/Web_Role.gif" alt="" width="386"> |
+| <img title="" src="Readme_assets/Web_Login.gif" alt="" width="386"> | <img title="" src="Readme_assets/Web_Role.gif" alt="" width="386"> |
 |:-------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------:|
 | **Login Page**                                                      | **Select Role**                                                                                                                  |
 | <br>                                                                |                                                                                                                                  |
 | 💊 <b>Create Hospital & Main</b>                                    |                                                                                                                                  |
 
-| <img title="" src="file:///C:/Users/SSAFY/Documents/DESKTOP/Mirroring/S09P31E105/Readme_assets/Web_CreateHospital.gif" alt="" width="386"> | <img title="" src="file:///C:/Users/SSAFY/Documents/DESKTOP/Mirroring/S09P31E105/Readme_assets/Web_Main.gif" alt="" width="386"> |
+| <img title="" src="Readme_assets/Web_CreateHospital.gif" alt="" width="386"> | <img title="" src="Readme_assets/Web_Main.gif" alt="" width="386"> |
 |:------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------:|
 | **Create Hospital**                                                                                                                        | **Main Page**                                                                                                                    |
 
 <br>
 💊 <b>Make Schedule & Management Hospital</b>
 
-| <img title="" src="file:///C:/Users/SSAFY/Documents/DESKTOP/Mirroring/S09P31E105/Readme_assets/Web_mkschedule.gif" alt="" width="386"> | <img title="" src="file:///C:/Users/SSAFY/Documents/DESKTOP/Mirroring/S09P31E105/Readme_assets/Web_Setting.gif" alt="" width="386"> |
+| <img title="" src="Readme_assets/Web_mkschedule.gif" alt="" width="386"> | <img title="" src="Readme_assets/Web_Setting.gif" alt="" width="386"> |
 |:--------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------:|
 | **Make Schedule**                                                                                                                      | **Management**                                                                                                                      |
 
